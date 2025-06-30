@@ -1,0 +1,9 @@
+BOT_TOKEN=8034720285:AAEse02EKO8Ux_0QnhtxvYj3PF-z4fDnlBE
+FIREBASE_API_KEY=AIzaSyDDuLoq0jDCCoujZpqQNYcYW-lu6bKbdI
+FIREBASE_PROJECT_ID=probetai-comercial
+FIREBASE_PRIVATE_KEY_ID=your-private-key-id
+FIREBASE_PRIVATE_KEY=your-private-key
+FIREBASE_CLIENT_EMAIL=firebase-adminsdk@example.iam.gserviceaccount.com
+FIREBASE_CLIENT_ID=your-client-id
+FIREBASE_CLIENT_CERT_URL=https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk@example.iam.gserviceaccount.com
+ADMIN_CHAT_ID=6517368337
